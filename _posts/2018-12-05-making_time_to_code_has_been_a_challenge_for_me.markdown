@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Making time to code has been a challenge for me."
-date:       2018-12-05 23:17:34 +0000
+date:       2018-12-05 18:17:35 -0500
 permalink:  making_time_to_code_has_been_a_challenge_for_me
 ---
 
