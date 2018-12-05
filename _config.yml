@@ -1,11 +1,11 @@
 # Site settings
 author: Lamia Haider
-title: 
+title: Hashing it Out
 header-img: img/home-bg.png
 email: lamia.haider@gmail.com
 copyright_name: Lamia Haider
 description: > # this means to ignore newlines until "baseurl:"
-  
+  This is mostly to give myself little pep talks.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  lamia-haider
